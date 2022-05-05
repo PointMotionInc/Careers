@@ -16,9 +16,8 @@ Not everyone takes action, you will be ahead of most others just by taking actio
 Here are the next steps:
 
 1. Pick up one of the tasks below and build it using Javascript (You can use any framework)
-2. Once you've completed the task, you will have to deploy your code and submit the live URL + Code through an API. We don't have a UI for this yet (Hey! we're hiring people for frontend!)
-3. You receive a confirmation email with someone from our team in CC (API does that automatically).
-4. Best case: You get selected and join our team. Worst case, you improve your skills and add a new project to your work-ex. Win-Win. Your code will always be your IP and won't be used anywhere in our product.
+2. Once you've completed the task, you will have to deploy your code and submit the GitHub URL + Deployed URL to aman@pointmotioncontrol.com. You code will be your intellectual property and you will have full ownership of it.
+3. Once you do that, you will receive a confirmation email from one of our team members.
 
 
 
@@ -30,16 +29,18 @@ Even though we do not hire people as "frontend" or "backend", we understand that
 
 ### Backend Challenge
 
-If you find databases, cloud servers, APIs, scaling most exciting. Take up this challenge.
+If you find databases, cloud servers, APIs, scaling most exciting. [Take up this challenge.](https://github.com/PointMotionInc/Careers/blob/main/BACKEND.md)
 
 
 ### Frontend (Logic) Challenge
 
-If you like frontend more, then pick up this challenge.
+If you like frontend more, [then pick up this challenge.](https://github.com/PointMotionInc/Careers/blob/main/FRONTEND.md)
 
 ## Frontend (UI) Challenge
 
-If you're into pixel perfect designs. This is your challenge.
+If you're into pixel perfect designs. [This is your challenge.](https://github.com/PointMotionInc/Careers/blob/main/FRONTEND-UI.md)
 
+
+## Final Step
 
 Once you're done, send your task to aman@pointmotioncontrol.com
