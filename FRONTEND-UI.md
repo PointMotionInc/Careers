@@ -9,11 +9,11 @@ Please create a landing using any framework (or vanilla CSS) of your choice. (We
 
 ------------
 
-[GET THE LANDING PAGE ASSETS HERE.](https://www.figma.com/file/ipm9WmPpGc1CprO5WjdDrC/SaaS-Landing-Page-5-(Community)?node-id=0%3A1)
+[GET THE LANDING PAGE ASSETS AND CONTENT HERE.](https://www.figma.com/file/ipm9WmPpGc1CprO5WjdDrC/SaaS-Landing-Page-5-(Community)?node-id=0%3A1)
 
 ![Landing Page](assets/images/landing-page.jpg)
 
-[GET THE LANDING PAGE ASSETS HERE.](https://www.figma.com/file/ipm9WmPpGc1CprO5WjdDrC/SaaS-Landing-Page-5-(Community)?node-id=0%3A1)
+[GET THE LANDING PAGE ASSETS AND CONTENT HERE.](https://www.figma.com/file/ipm9WmPpGc1CprO5WjdDrC/SaaS-Landing-Page-5-(Community)?node-id=0%3A1)
 
 ------------
 
